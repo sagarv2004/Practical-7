@@ -1,1 +1,38 @@
 
+<!DOCTYPE HTML>
+<html>
+<head>
+     <title>Document</title>
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+     <link rel="stylesheet" href="style.css"type="text/css">
+   
+</head>
+<body>
+      <div>
+          <label><b><i class=></i><i class="fa-solid fa-user"></i>username:</b></label><br>
+          <input type="text"><br><br>
+          <label><b><i></i><i class="fa-solid fa-lock"></i>Password:</b></label><br>
+          <input type="password"><br><br>
+          <button>submit</button><br>
+          <br>
+      </div><br>
+</body>
+</html>
+
+body{
+    text-align:center;
+}
+DIV{
+    background-image:linear-gradient(rgb(42, 38, 38),rgb(0, 255, 225),rgb(0, 170, 255));
+    border:3px solid black;
+    WIDTH:30%;
+    margin:auto;
+    margin-right: auto;
+    padding:20px;
+    height:50%;
+    margin-top: 150px;
+
+  }
+  button{
+    background-color:rgb(255, 0, 68)
+  }
